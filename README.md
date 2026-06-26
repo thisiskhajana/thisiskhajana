@@ -75,7 +75,6 @@ I'm a **Lead DevOps Engineer** at FactSet with a passion for automating everythi
 
 | Metric | Value |
 |--------|-------|
-| 📅 **Years of Experience** | 6+ years in DevOps & Cloud |
 | 🏗️ **Projects Delivered** | 50+ infrastructure solutions |
 | 🌍 **Cloud Platforms** | AWS • Azure • GCP |
 | 🐳 **Container Environments** | 50+ microservices on Kubernetes |
@@ -88,7 +87,7 @@ I'm a **Lead DevOps Engineer** at FactSet with a passion for automating everythi
 ## 👨‍💼 Career Timeline
 
 ### 🌟 Lead DevOps Engineer — FactSet Systems India Pvt Ltd
-**Jun 2019 - Present** | Hyderabad
+**Current Position** | Hyderabad
 
 **Responsibility:** Lead infrastructure strategy and team mentorship
 
@@ -105,7 +104,7 @@ I'm a **Lead DevOps Engineer** at FactSet with a passion for automating everythi
 ---
 
 ### 🚀 DevOps Engineer — Futurism Technologies Pvt Ltd
-**Nov 2018 - Jun 2019** | Hyderabad
+**Previous Position** | Hyderabad
 
 **Responsibility:** Infrastructure automation and CI/CD pipeline design
 
@@ -122,21 +121,21 @@ I'm a **Lead DevOps Engineer** at FactSet with a passion for automating everythi
 
 ## 🏆 Certifications & Recognition
 
-| Certification | Issuer | Year | Validation |
-|---|---|---|---|
-| **AWS Certified Solutions Architect – Associate** ⭐ | Amazon Web Services | 2024 | J3409H5CF24Q1PK1 |
-| **Claude 101 Completion** | Anthropic | 2024 | - |
-| **Introduction to Model Context Protocol** | Anthropic | 2024 | - |
+| Certification | Issuer | Validation |
+|---|---|---|
+| **AWS Certified Solutions Architect – Associate** ⭐ | Amazon Web Services | J3409H5CF24Q1PK1 |
+| **Claude 101 Completion** | Anthropic | - |
+| **Introduction to Model Context Protocol** | Anthropic | - |
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | University | Completion |
-|--------|-------------|-----------|---|
-| **M. Tech** • Computer Science Engineering | Sarada Engineering College | JNTUK | 2018 |
-| **B. Tech** • Computer Science Engineering | Sarada Engineering College | JNTUK | 2016 |
-| **Diploma** • Computer Science Engineering | Government Polytechnic | SBTET | 2013 |
+| Degree | Institution | University |
+|--------|-------------|-----------|
+| **M. Tech** • Computer Science Engineering | Sarada Engineering College | JNTUK |
+| **B. Tech** • Computer Science Engineering | Sarada Engineering College | JNTUK |
+| **Diploma** • Computer Science Engineering | Government Polytechnic | SBTET |
 
 ---
 
@@ -287,6 +286,6 @@ Personal portfolio - All rights reserved ©2024 Khajana Raju Yandapalli
 
 **⭐ If you found this portfolio helpful or interesting, consider giving it a star on [GitHub](https://github.com/thisiskhajana/thisiskhajana.github.io)!**
 
-**Last Updated:** June 2026 | *Maintaining this portfolio as my living resume*
+*Maintaining this portfolio as my living resume*
 
 </div>
